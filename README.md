@@ -46,7 +46,9 @@
 
 # potentially? branch-train-merge - training 3 smaller models then merging gets higher accuracy faster than training one big one. Maybe do this iteratively throughout training?
 
-# data cleaning - skill-it skill graph builder?
+# data cleaning - skill-it skill graph builder?; beating neural scling laws with data pruning; 
+
+# Symbol Tuning
 
 # use low perplexity tokens (from METAmath paper, also I suspect teh reason for TinyStories and textbooks are all you need)
 
